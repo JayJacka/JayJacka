@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 
 ## 🌟 About Me
 - 🎓 I'm a 4th year computer engineering student at Chulalongkorn University
-- 🔭 I’m currently working on building my portfolio. You can take a sneak peek at ![jayjacka.me](https://jayjacka.me)
+- 🔭 I’m currently working on building my portfolio. You can take a sneak peek at [jayjacka.me](https://jayjacka.me)
 
 ---
 
