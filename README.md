@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Supawit Saeliew!
+# 👋 Hi there, I'm Supawit Saeliew (Jay)!
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves building applications, solving problems, and exploring new technologies. 
 
@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 ---
 
 ## 🛠️🧰 Tools & Tech
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayJacka&show_icons=true&theme=radical)
