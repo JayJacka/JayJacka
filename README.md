@@ -47,7 +47,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="height: 40px"/>
-  <img src="https://relay.dev/img/relay.svg" alt="Relay" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="40" height="40"/>
 </p>
 
