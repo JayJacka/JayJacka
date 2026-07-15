@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayJacka&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-stats-extended.vercel.app/api?username=JayJacka&show_icons=true&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayJacka&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=JayJacka&show_icons=true&theme=gruvbox)
 
